@@ -1,0 +1,98 @@
+h1 {
+	text-align:center;
+}
+
+
+h2 {
+	text-align:center;
+	margin-top:40px;
+	margin-bottom:40px;
+}
+
+
+h3 {
+	color:#A31652;
+	font-family:Verdana;
+}
+
+
+img {
+	height: 200px;
+	width: 1000px;
+	text-align: center;
+	margin:auto;
+	}
+
+
+#entreprises {
+	height: 150px;
+	width: 1000px;
+}
+
+
+#ecoles {
+height: 170px;
+width: 900px;
+}
+
+
+nav li { 
+	display:inline-block;
+	float:left;
+	margin-left:30px; 
+	text-decoration: none;
+	position:center;
+}
+
+
+nav a {
+	color:#A31652;
+}
+
+
+a { 
+	color:#A31652;
+}
+
+
+a:hover { 
+	color:#70054B;
+}
+
+
+body {
+	background-color: #D7D8DA;
+}
+
+
+#home {
+	font-family: Garamond;
+	font-size:20px;
+	color:#A31652;
+	background: url(helena_cornec.jpg) no-repeat center center;
+	background-size: cover;
+	height:700px;
+}
+
+
+#icons {
+	text-align:left;
+}
+
+
+#icons li {
+	display:inline-block;
+	float:left;
+	margin-left:40px; 
+	text-decoration: none;
+}
+
+
+.clear {
+	clear:both;
+}
+
+p {
+	font-family: Arial;
+	font-size: 20px;
+}
